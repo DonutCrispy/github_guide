@@ -6,6 +6,8 @@ def main():
     print("Bye bye")
     print("Hola") # this is new
     print("guppy") # dc
+    print("ybybybyby") # cs
+    print("bybyy") # cs
 
 if __name__ == "__main__":
     main()
